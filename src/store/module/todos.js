@@ -7,7 +7,7 @@
 
 const state = {
   todos:[],
-  status:'all'
+  status:STATUS_ALL
 }
 const getters = {
 	getTodos:state=>state.todos,

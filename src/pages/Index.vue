@@ -70,7 +70,6 @@ export default {
     return {
       dense:false,
       denseTrue:true,
-      checked:[],
       all:STATUS_ALL,
 	  active:STATUS_ACTIVE,
 	  completed:STATUS_COMPLETED
